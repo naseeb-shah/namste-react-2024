@@ -104,7 +104,7 @@ This repository contains a `Collection of Assignments & Class Notes`, which help
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/chetannada/Namaste-React.git"
+  git clone "https://github.com/naseeb-shah/namste-react-2024"
 ```
 
 Go to the project directory
